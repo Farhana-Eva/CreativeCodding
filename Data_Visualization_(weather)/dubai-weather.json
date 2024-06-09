@@ -1,0 +1,114 @@
+{
+  "query": {
+    "count": 1,
+    "created": "2024-06-05T12:00:00Z",
+    "lang": "en-US",
+    "results": {
+      "channel": {
+        "units": {
+          "distance": "km",
+          "pressure": "mb",
+          "speed": "km/h",
+          "temperature": "C"
+        },
+        "title": "Yahoo! Weather - Dubai, UAE",
+        "link": "https://weather.yahoo.com/uae/dubai/dubai-753692",
+        "description": "Yahoo! Weather for Dubai, UAE",
+        "language": "en-us",
+        "lastBuildDate": "Mon, 05 Jun 2024 12:00 PM GST",
+        "ttl": "60",
+        "location": {
+          "city": "Dubai",
+          "country": "UAE",
+          "region": ""
+        },
+        "wind": {
+          "chill": "30",
+          "direction": "110",
+          "speed": "15"
+        },
+        "atmosphere": {
+          "humidity": "70",
+          "pressure": "1012.0",
+          "rising": "0",
+          "visibility": "10.0"
+        },
+        "astronomy": {
+          "sunrise": "5:30 am",
+          "sunset": "7:00 pm"
+        },
+        "item": {
+          "title": "Conditions for Dubai, UAE",
+          "lat": "25.276987",
+          "long": "55.296249",
+          "pubDate": "Mon, 05 Jun 2024 12:00 PM GST",
+          "condition": {
+            "code": "32",
+            "date": "Mon, 05 Jun 2024 12:00 PM GST",
+            "temp": "35",
+            "text": "Sunny"
+          },
+          "forecast": [
+            {
+              "code": "32",
+              "date": "05 Jun 2024",
+              "day": "Mon",
+              "high": "38",
+              "low": "28",
+              "text": "Sunny"
+            },
+            {
+              "code": "34",
+              "date": "06 Jun 2024",
+              "day": "Tue",
+              "high": "39",
+              "low": "30",
+              "text": "Mostly Sunny"
+            },
+            {
+              "code": "30",
+              "date": "07 Jun 2024",
+              "day": "Wed",
+              "high": "40",
+              "low": "31",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "08 Jun 2024",
+              "day": "Thu",
+              "high": "41",
+              "low": "32",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "34",
+              "date": "09 Jun 2024",
+              "day": "Fri",
+              "high": "40",
+              "low": "31",
+              "text": "Mostly Sunny"
+            },
+            {
+              "code": "30",
+              "date": "10 Jun 2024",
+              "day": "Sat",
+              "high": "39",
+              "low": "30",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "32",
+              "date": "11 Jun 2024",
+              "day": "Sun",
+              "high": "38",
+              "low": "28",
+              "text": "Sunny"
+            }
+          ],
+          "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/32.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Sunny\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Mon - Sunny. High: 38Low: 28\n<BR /> Tue - Mostly Sunny. High: 39Low: 30\n<BR /> Wed - Partly Cloudy. High: 40Low: 31\n<BR /> Thu - Partly Cloudy. High: 41Low: 32\n<BR /> Fri - Mostly Sunny. High: 40Low: 31\n<BR />\n<BR />\n<a href=\"https://weather.yahoo.com/uae/dubai/dubai-753692\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n<BR />\n]]>"
+        }
+      }
+    }
+  }
+}
